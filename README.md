@@ -14,7 +14,7 @@
 * [猫眼影评:mobile_phone_off:](https://github.com/Largefreedom/python_zeroing-/tree/master/maoyan_crawl);
 * [《我和我的祖国数据爬取及数据分析》](https://github.com/Largefreedom/python_zeroing-/tree/master/zuguo);
 * [爬虫代理池搭建及维护](https://github.com/Largefreedom/python_zeroing-/tree/master/proxy_pool)；
-* [京东商品类目数据](https://github.com/Largefreedom/python_zeroing-/tree/master/JD_Crawer);
+* [京东商品数据爬取](https://github.com/Largefreedom/python_zeroing-/tree/master/JD_Crawer);
 
 -----
 
