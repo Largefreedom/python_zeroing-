@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # -*- encoding: utf-8 -*-
 '''
 @Author  : zeriong；
