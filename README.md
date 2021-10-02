@@ -1,9 +1,6 @@
 
-# python_zeroing-
-
-
+## python_zeroing-
 -----
-
 #### 主要是自己写的一些爬虫小demo，已更新了
 
 *  [大众点评评论](https://github.com/Largefreedom/python_zeroing-/tree/master/dianping_comment):dango:;
@@ -14,7 +11,6 @@
 * [京东商品数据爬取](https://github.com/Largefreedom/python_zeroing-/tree/master/JD_Crawer);
 * [《鱿鱼游戏》豆瓣评论](https://github.com/Largefreedom/python_zeroing-/tree/master/DoubanComment)
 -----
-
 #### 个人小建议：代码结合博客食用效果更佳，博客地址：[小张Python | 专注 Python 编程！ (zeroingpython.top)](https://zeroingpython.top/)
 
 #### 鉴于个人水平有限，如有问题可以在公众号（小张Python）后台留言，二维码地址链接: 
