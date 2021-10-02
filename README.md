@@ -1,7 +1,5 @@
 
 # python_zeroing-
-###  python_zeroing-
-#### python爬虫系列
 
 <br>
 
@@ -15,7 +13,7 @@
 * [《我和我的祖国数据爬取及数据分析》](https://github.com/Largefreedom/python_zeroing-/tree/master/zuguo);
 * [爬虫代理池搭建及维护](https://github.com/Largefreedom/python_zeroing-/tree/master/proxy_pool)；
 * [京东商品数据爬取](https://github.com/Largefreedom/python_zeroing-/tree/master/JD_Crawer);
-
+* [《鱿鱼游戏》豆瓣评论](https://github.com/Largefreedom/python_zeroing-/tree/master/DoubanComment)
 -----
 
 #### 个人小建议：代码结合博客食用效果更佳，博客地址：[小张Python | 专注 Python 编程！ (zeroingpython.top)](https://zeroingpython.top/)
