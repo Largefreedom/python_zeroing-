@@ -6,7 +6,7 @@
 *  [大众点评评论](https://github.com/Largefreedom/python_zeroing-/tree/master/dianping_comment):dango:;
 * [搜狗微信文章](https://github.com/Largefreedom/python_zeroing-/tree/master/weixin_passage_crawl):page_facing_up:
 * [猫眼影评:mobile_phone_off:](https://github.com/Largefreedom/python_zeroing-/tree/master/maoyan_crawl);
-* [《我和我的祖国数据爬取及数据分析》](https://github.com/Largefreedom/python_zeroing-/tree/master/zuguo);
+* [《我和我的祖国数据》影评爬取及数据分析](https://github.com/Largefreedom/python_zeroing-/tree/master/zuguo);
 * [爬虫代理池搭建及维护](https://github.com/Largefreedom/python_zeroing-/tree/master/proxy_pool)；
 * [京东商品数据爬取](https://github.com/Largefreedom/python_zeroing-/tree/master/JD_Crawer);
 * [《鱿鱼游戏》豆瓣评论爬取](https://github.com/Largefreedom/python_zeroing-/tree/master/DoubanComment)
