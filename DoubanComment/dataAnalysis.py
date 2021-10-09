@@ -38,11 +38,11 @@ def comment_count():
 def star_count():
     # 评论星级分布
     star_dict = {
-        '50':'五星',
         '10':'一星',
         '20':'二星',
         '30':'三星',
         '40':'四星',
+        '50': '五星',
     }
     print(star_dict.values())
     star_list = []
