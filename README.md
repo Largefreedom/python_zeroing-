@@ -43,6 +43,10 @@
 * [Pyqt5 + 百度API 制作一个人脸识别、头像自动分割程序](https://mp.weixin.qq.com/s/_dqKoyuOaX1x4VQBcGQkAg)
 * [用 Pyqt5 制作一个炫酷水波进度条](https://mp.weixin.qq.com/s/U20-hE10_4wJIKgDNojF1A)
 * [Python GUI界面 — 用 PyQt5 制作动态钟表](https://mp.weixin.qq.com/s/ZuGSsWtMzW7DXSF4F-93dQ)
+* [推荐一个好玩的网站，老照片上色、人脸识别都不是问题！](https://mp.weixin.qq.com/s/iQbcFiIW-Any7JrIgpJ4gA)
+* [回家的票买到了么?今天教你如何用 Python 抢票](https://mp.weixin.qq.com/s/KlCvvd6Ed7OwDOidtbjiWQ)
+* [Amazing！黑白老照片上色，Python 两秒一张](https://mp.weixin.qq.com/s/yfXfBRH1qbi0y9zH-wGn5A)
+* [火爆全网的老照片修复技术，今天手把手教你用怎么玩](https://mp.weixin.qq.com/s/tUvKrDqebCQFIZi2_aQPCQ)
 
 #### 图像处理
 
