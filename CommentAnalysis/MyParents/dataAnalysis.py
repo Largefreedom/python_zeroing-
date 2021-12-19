@@ -73,14 +73,12 @@ sn_sell_amount  = [101,509,408,471,494,511,504]
 parent_sell_amount = [6003,16817,15050,13975,12611,11748,11237]
 changjinhu_sell_amount = [19090,38062,40674,43897,44969,45844,47534]
 
-
 sn_add_amount = [sum(sn_sell_amount[:index+1]) for index,item in enumerate(sn_sell_amount)]
 parent_add_amount = [sum(parent_sell_amount[:index+1]) for index,item1 in enumerate(parent_sell_amount)]
-
 changjinhu_add_amount = [sum(changjinhu_sell_amount[:index+1]) for index,item2 in enumerate(changjinhu_sell_amount)]
 
 print(sn_add_amount)
 print(parent_add_amount)
 print(changjinhu_add_amount)
 
-a
+
