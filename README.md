@@ -6,8 +6,8 @@
 ---
 ### Python爬虫
 
-*  [python爬虫—关于大众点评数据的爬取](https://blog.csdn.net/weixin_42512684/article/details/86775357):dango:;
-*  [python爬虫—关于淘宝商品的爬取！](https://mp.weixin.qq.com/s/C7JnAWwKnblPyFvJL6ZFRA)
+* [python爬虫—关于大众点评数据的爬取](https://blog.csdn.net/weixin_42512684/article/details/86775357):dango:;
+* [python爬虫—关于淘宝商品的爬取！](https://mp.weixin.qq.com/s/C7JnAWwKnblPyFvJL6ZFRA)
 * [python爬虫js加密篇—搜狗微信公号文章的爬取](https://blog.csdn.net/weixin_42512684/article/details/100169550):page_facing_up:
 * [从《我和我的祖国》、《攀登者》和《中国机长》影评中看到了什么](https://github.com/Largefreedom/python_zeroing-/tree/master/maoyan_crawl);
 * [《我和我的祖国数据》影评爬取及数据分析](https://mp.weixin.qq.com/s/Kz5O7zNm_ONx5M3I5aCTbQ);
@@ -17,6 +17,7 @@
 * [数据分析——有哪些让你不得不服气的神逻辑？(知乎)](https://mp.weixin.qq.com/s/RWVW4biotwElZSAnp6KXEg)
 * [从《【何同学】我拍了一张600万人的合影...》弹幕分析中，获取到了什么？](https://mp.weixin.qq.com/s/QgeYx1Zu-GMMLhFcWBiIvA)
 * [如何用 Python 爬取微博评论，通过王某宏事件来手把手教学](https://mp.weixin.qq.com/s/De7qwA9IgrW2P2zBmuNIcQ)
+
 
 #### 可视化
 
@@ -78,6 +79,8 @@
 * [Numpy进阶(一) — 替换图片中的指定颜色！](https://mp.weixin.qq.com/s/YvjCVzFc2uAWbGI8EwuheA)
 * [Numpy 进阶(二) — 对图像进行旋转、水平、垂直镜像操作！](https://mp.weixin.qq.com/s/nW-pCsG_eovBhfjhrpJl4w)
 
+
+#### Tuturle 案例
 
 
 
