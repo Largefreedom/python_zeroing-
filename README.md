@@ -16,6 +16,7 @@
 * [火爆全网的《鱿鱼游戏》，用 Python 分析一波影评~](https://mp.weixin.qq.com/s/U2JZZMJmASVahQ2Ro1DP1A)
 * [数据分析——有哪些让你不得不服气的神逻辑？(知乎)](https://mp.weixin.qq.com/s/RWVW4biotwElZSAnp6KXEg)
 * [从《【何同学】我拍了一张600万人的合影...》弹幕分析中，获取到了什么？](https://mp.weixin.qq.com/s/QgeYx1Zu-GMMLhFcWBiIvA)
+* [如何用 Python 爬取微博评论，通过王某宏事件来手把手教学](https://mp.weixin.qq.com/s/De7qwA9IgrW2P2zBmuNIcQ)
 
 #### 可视化
 
@@ -78,12 +79,12 @@
 * [Numpy 进阶(二) — 对图像进行旋转、水平、垂直镜像操作！](https://mp.weixin.qq.com/s/nW-pCsG_eovBhfjhrpJl4w)
 
 
-#### 个人小建议：代码结合博客食用效果更佳，博客地址：[小张Python | 专注 Python 编程！ (zeroingpython.top)](https://zeroingpython.top/)
 
-#### 鉴于个人水平有限，如有问题可以在公众号（小张Python）后台留言，二维码地址链接: 
+
+#### 鉴于个人水平有限，如有问题可以在公众号（程序员大飞）后台留言，二维码地址链接: 
 <br>
 
-![Snipaste_2021-01-01_09-44-31](https://images.zeroingpython.top/img/Snipaste_2021-01-01_09-44-31.png)
+![Snipaste_2021-01-01_09-44-31](https://images.zeroingpython.top//img/扫码_搜索联合传播样式-标准色版.png)
 
 
 
