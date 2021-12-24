@@ -1,4 +1,10 @@
 /*/*/*.jpg
 /*/*/*.png
 /*/*/*.tif
+.idea
+CommentAnalysis/*/*/*.png
 
+
+.gitignore
+
+Weibo-Spider/*/*.ttf

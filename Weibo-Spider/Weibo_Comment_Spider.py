@@ -72,6 +72,5 @@ if __name__ =='__main__':
     # collection.delete_many({})
     time_unit = [0.5,1,2,0.2,0.4,1.2,1.3,0.9]
     for i in  range(100000):
-
         parseUrl(page=i)
 
