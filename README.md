@@ -84,10 +84,10 @@
 
 
 
-#### 鉴于个人水平有限，如有问题可以在公众号（程序员大飞）后台留言，二维码地址链接: 
+#### 鉴于个人水平有限，如有问题可以在公众号（小张Python）后台留言，二维码地址链接: 
 <br>
 
-![Snipaste_2021-01-01_09-44-31](https://images.zeroingpython.top//img/扫码_搜索联合传播样式-标准色版.png)
+![Snipaste_2021-01-01_09-44-31](https://images.zeroingpython.top//img/Snipaste_2021-01-01_09-44-31.png)
 
 
 
